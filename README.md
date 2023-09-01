@@ -31,11 +31,11 @@ One of the goals of this project is to construct a prediction model that infers 
 ## 2. Data Collection and Exploration
 Data was downloaded from the Kaggle competition website using my unique Kaggle API key. See the steps below.
 
-(wine_pred1.PNG)
+![](wine_pred1.PNG)
 
 The train dataset was checked for missing info and duplicates.
 
-(wine_pred2.PNG)
+![](wine_pred2.PNG)
 
 
 ## Exploration data analysis
