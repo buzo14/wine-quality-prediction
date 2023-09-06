@@ -9,21 +9,21 @@ These datasets are from one of the many competitions from [Kaggle](https://www.k
 
 ### Description
 Input variables (based on physicochemical tests):
-1 - Fixed acidity
-2 - Volatile acidity
-3 - Citric acid
-4 - Residual sugar
-5 - Chlorides
-6 - Free sulfur dioxide
-7 - Total sulfur dioxide
-8 - Density
-9 - pH
-10 - Sulphates
-11 - Alcohol
+- Fixed acidity
+- Volatile acidity
+- Citric acid
+- Residual sugar
+- Chlorides
+- Free sulfur dioxide
+- Total sulfur dioxide
+- Density
+- pH
+- Sulphates
+- Alcohol
 
 Output variable (based on sensory data):
 
-12 - quality (score between 0 and 10)
+- Quality (score between 0 and 10)
 
 ### Project Goal/Motivation
 One of the goals of this project is to construct a prediction model that infers wine quality based on some chemical facts. We also intend to find the most important features that drive the quality of wine. 
